@@ -1,0 +1,27 @@
+{
+  "name": "CoberturaECMX — Gestión de Emergencias",
+  "short_name": "CoberturaECMX",
+  "description": "Simulador de brechas de cobertura y Sistema de Comando de Incidentes (SCI) para la Ciudad de México.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080f18",
+  "theme_color": "#080f18",
+  "lang": "es-MX",
+  "categories": ["utilities", "productivity", "navigation"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

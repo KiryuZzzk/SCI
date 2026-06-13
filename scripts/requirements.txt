@@ -1,0 +1,7 @@
+# No external dependencies — preprocess.py uses only Python stdlib
+# (json, csv, os, pathlib, collections, datetime)
+#
+# Optional: install these if you want the advanced shapefile support
+# geopandas>=0.14.0
+# pandas>=2.0.0
+# shapely>=2.0.0

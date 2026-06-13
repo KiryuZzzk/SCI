@@ -1,0 +1,28 @@
+{
+  "processedAt": "2026-04-09",
+  "version": "1.1.0",
+  "sources": {
+    "c5": {
+      "url": "https://datos.cdmx.gob.mx/dataset/llamadas-numero-de-atencion-a-emergencias-911",
+      "records": 894322,
+      "period": "2022-2024"
+    },
+    "inegi": {
+      "url": "https://datos.cdmx.gob.mx/dataset/coloniascdmx",
+      "colonias": 1814
+    },
+    "ssa": {
+      "url": "https://www.gob.mx/salud/documentos/datos-abiertos-190024",
+      "records": 0,
+      "nota": "Sin coordenadas — agregar clues_coords.csv para habilitar"
+    },
+    "bomberos": {
+      "url": "https://bomberos.cdmx.gob.mx/estaciones",
+      "records": 21
+    }
+  },
+  "stats": {
+    "coloniasWithIncidents": 1716,
+    "totalColonias": 1814
+  }
+}
