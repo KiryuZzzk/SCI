@@ -1,5 +1,7 @@
 # CoberturaECMX — Análisis de Cobertura de Emergencias y Simulador SCI
 
+DEMO: https://sci-alpha.vercel.app/
+
 > Plataforma dual para la Ciudad de México: análisis de brechas de cobertura de servicios de emergencia por colonia (con datos abiertos reales) + simulador interactivo de Sistema de Comando de Incidentes (SCI/ICS) con escenarios de desastre guionizados.
 
 ![Mapa de brechas de cobertura por colonia](demo/ss1.png)
