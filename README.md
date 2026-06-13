@@ -72,6 +72,3 @@ Para regenerar los datos desde las fuentes abiertas, ver [`scripts/README.md`](s
 
 Todos los derechos reservados. El código está publicado con fines de portafolio y aprendizaje; contacta a la autora para cualquier otro uso.
 
----
-
-*Desarrollado por Carolina Mota García.*
